@@ -1,0 +1,21 @@
+
+
+.food{  
+  background-color: #E7E7E7;
+}
+
+.food h3{
+  padding-top:10px;
+}
+
+.food p {
+  padding: 10px 10px 10px 20px;
+}
+
+#beef a, #sushi a{
+  text-transform: capitalize;
+}
+
+#sushi{
+  margin-bottom: 20px;
+}
